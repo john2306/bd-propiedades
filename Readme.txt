@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Thanks for this theme!
 
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: IAnalyttics Corporation
+Author: John Mendoza
+Author URL: http://ianalytics-data.com/
